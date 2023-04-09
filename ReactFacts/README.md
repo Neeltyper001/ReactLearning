@@ -7,4 +7,4 @@ This is the first mini- project made which is an static web-page made on the rea
 ![Light-Mode](./Images/ReactLightSS.png)
 
 # Link to the webpage
-link : https://app.netlify.com/sites/some-react-facts
+link : https://some-react-facts.netlify.app/
